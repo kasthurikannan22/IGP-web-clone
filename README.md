@@ -1,2 +1,13 @@
-# IGP-web-clone
-A responsive IGP web clone created using HTML and CSS. This project focuses on layout structure, UI design, and responsive styling to improve frontend development skills.
+## Preview
+
+![IGP Web Clone Preview](./Screenshot%202026-01-21%20120550.png)
+
+
+## Technologies Used
+- HTML5
+- CSS3
+
+## Learning Outcomes
+- Improved frontend layout skills
+- Better understanding of responsive design
+- Practice in clean UI structuring
